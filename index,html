@@ -2,22 +2,12 @@
 <html  long="pt-br">
 <head><meta charset="utf-8">
 <title> minha pagina web</title>
-
-
-
-
-
-
-
-
-
-
-</head>
-
-
-
-
-
+</head> <body>
+<h1><style>="text-atign:center"</h1>
+<p> style="text-align:center":
+style="font-size:20px">
+<title>
+<link ref="stylesheet"href="style css">
 
 
 
@@ -29,9 +19,18 @@
 
 
 
+
+
+
+
+
+
+
+
+</body>
 
 
 </html>
 
 <h1>moda</h1>
-<p> A moda é um conceito amplo que engloba tendências de roupas, acessórios, estilo de vida e comportamento. Ela é uma forma de expressão cultural e individual, que reflete as mudanças na sociedade e as influências de diversos aspectos, como arte, música etc</p>
+<p>cA moda é um conceito amplo que engloba tendências de roupas, acessórios, estilo de vida e comportamento. Ela é uma forma de expressão cultural e individual, que reflete as mudanças na sociedade e as influências de diversos aspectos, como arte, música etc</p>
