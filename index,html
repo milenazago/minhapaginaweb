@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html  long="pt-br">
-<head><meta charset="utf-8">
+<head>
+<meta charset="utf-8">
 <title> minha pagina web</title>
-</head> <body>
+<link rel="stylesheet" href="styles.css"
+
+body{lockground#20b2aa}
+p{"text-align.center"}
+strong{color#lightseagreen}
+</head> 
+<body>
+
+<h1 id="titulo1"> codificando o futuro:</h1>
+<img  id="img1" src="img1.jpg">
+
+
+
+
+
+
+
 <h1><style>="text-atign:center"</h1>
 <p> style="text-align:center":
 style="font-size:20px">
 <title>
 <link ref="stylesheet"href="style css">
-
-
-
-
-
-
 
 
 
