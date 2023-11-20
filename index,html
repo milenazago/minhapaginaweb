@@ -4,44 +4,58 @@
 <meta charset="utf-8">
 <title> minha pagina web</title>
 <link rel="stylesheet" href="styles.css"
+</head>
 
-body{lockground#20b2aa}
-p{"text-align.center"}
-strong{color#lightseagreen}
-</head> 
+</header>
+         codificando o futuro  
+</header>
 <body>
-
+<div class="principal"
 <h1 id="titulo1"> codificando o futuro:</h1>
 <img  id="img1" src="img1.jpg">
+<p class="p1"> A codificação desempenha um papel crucial na construção do futuro, permitindo soluções inovadoras e interações tecnológicas. É uma habilidade criativa e universal, impulsionando o progresso e a colaboração. No entanto, também exige mentalidade inovadora, aprendizado constante e responsabilidade ética. Ao abraçar a mudança e criar um mundo melhor, podemos moldar um futuro promissor através da codificação </p>
+<p class="p2">A codificação é essencial para construir um futuro inovador, conectando pessoas e impulsionando o progresso tecnológico. Envolve mentalidade inovadora, aprendizado contínuo e responsabilidade ética. Ao abraçar a mudança e usar a tecnologia para o bem comum, podemos moldar um futuro brilhante e impactante </p>
+</div>
 
+<div class="beneficios">
+<h2 id="titulo2"> beneficios da codificação </h2>
+<ul>
+ <li class="iten1"> O SENAI/SC iniciou um programa de capacitação para jovens de baixa renda para profissões do futuro em parceria com a Softplan e a Fundação ESAG </li>
+<li class="iten2"> O Projeto Codificando o Futuro é uma parceria entre SENAI, Softplan e Fundação ESAG, que oferece bolsas de estudo para jovens </li>
+<li class="iten3"> A Código Kids Salvador é uma empresa que está codificando o futuro passo a passo, em parceria com a Código Kids</li>
 
+</ul> 
+ 
+<img id="img2" src="images.jpeg">
 
-
-
-
-
-<h1><style>="text-atign:center"</h1>
-<p> style="text-align:center":
-style="font-size:20px">
-<title>
-<link ref="stylesheet"href="style css">
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 </body>
 
-
 </html>
 
-<h1>moda</h1>
-<p>cA moda é um conceito amplo que engloba tendências de roupas, acessórios, estilo de vida e comportamento. Ela é uma forma de expressão cultural e individual, que reflete as mudanças na sociedade e as influências de diversos aspectos, como arte, música etc</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
